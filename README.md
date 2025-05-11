@@ -1,5 +1,5 @@
 
-# Sentiment Analysis on Polling Response Audios
+# Sentiment Analysis with LLMs on Political Data
 
 This project performs sentiment analysis on polling response audios by transcribing the audio files and analyzing the resulting text for sentiment. The goal is to extract meaningful insights from public opinion data across various topics such as politics, healthcare, economy, and social issues.
 
